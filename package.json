@@ -1,0 +1,24 @@
+{
+  "name": "the-showrunners-website",
+  "version": "1.0.0",
+  "description": "Web app for The Showrunners",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beastslash/the-showrunners-website.git"
+  },
+  "author": "Christian Toney",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Beastslash/the-showrunners-website/issues"
+  },
+  "homepage": "https://github.com/Beastslash/the-showrunners-website#readme"
+}
