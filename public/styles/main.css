@@ -1,0 +1,14 @@
+* {
+  font-family: "Lexend Deca", Arial;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+}
+
+header > div {
+  font-family: "Lexend Deca", Arial;
+  font-weight: bold;
+  font-size: 2rem;
+}
